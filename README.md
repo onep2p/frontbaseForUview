@@ -1,4 +1,4 @@
-#Use
+# Use
 1、根目录 npm install 
 2、cli 运行uniapp编译各端
 
