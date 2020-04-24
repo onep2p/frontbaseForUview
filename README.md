@@ -1,6 +1,6 @@
 # Use
-1、根目录 npm install 
-2、cli 运行uniapp编译各端
+1、根目录 npm install  
+2、cli 运行uniapp编译各端  
 
 # Object Catalog
 boot 扩展封装js  
